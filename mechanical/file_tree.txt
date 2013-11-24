@@ -1,0 +1,31 @@
+# Structure of Mechanical Components for GCC 3d Printer
+
+# Add new files here.
+# Update file names, revision numbers, and dates.
+
+
+
+----------------------------------------------------
+|   Name                        | Rev.  | Date     |
+----------------------------------------------------
+
+
+Frame and Structure
+----------------------------------------------------
+    base_plate.sldprt             A       11/21/13
+
+
+XYZ Translation Stages
+----------------------------------------------------
+
+
+Extruders
+----------------------------------------------------
+
+
+Print Bed
+----------------------------------------------------
+
+
+Motors and Sensors
+----------------------------------------------------
